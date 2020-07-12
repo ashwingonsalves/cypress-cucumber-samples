@@ -1,0 +1,20 @@
+{
+  "name": "cypress-cucumber-sample",
+  "version": "1.0.0",
+  "description": "Cypress Cucumber Samples",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:browserstack": "browserstack-cypress run"
+  },
+  "author": "Ashwin G",
+  "license": "ISC",
+  "dependencies": {
+    "browserstack-cypress-cli": "git+https://github.com/browserstack/browserstack-cypress-cli.git#feature-file-patch",
+    "cypress": "^4.10.0",
+    "cypress-cucumber-preprocessor": "^2.5.3"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

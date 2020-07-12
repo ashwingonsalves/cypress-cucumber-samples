@@ -1,0 +1,35 @@
+{
+    "auth": {
+        "username": "<USERNAME>",
+        "access_key": "<ACCESS_KEY>"
+    },
+    "browsers": [
+        {
+            "browser": "chrome",
+            "os": "Windows 10",
+            "versions": [
+                "80",
+                "81"
+            ]
+        }
+    ],
+    "run_settings": {
+        "cypress_proj_dir": "./",
+        "project_name": "Cypress Cucumber",
+        "build_name": "Cy Cucumber Samples v1",
+        "parallels": 5,
+        "npm_dependencies": {
+            "cypress-cucumber-preprocessor": "^2.5.3"
+        },
+        "package_config_options": {
+            "cypress-cucumber-preprocessor": {
+                "nonGlobalStepDefinitions": true
+            }
+        }
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null
+    },
+    "disable_usage_reporting": false
+}
