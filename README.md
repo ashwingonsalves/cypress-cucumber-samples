@@ -28,7 +28,7 @@ npm run cy:browserstack
 
 Here are a few important links to get you started and help you  successfully integrate the CLI into your CI/CD pipelines.
 
--   [CLI Reference](https://browserstack.com/docs/automate/cypress#cli-reference)
+-   [BrowserStack CLI Reference](https://browserstack.com/docs/automate/cypress#cli-reference)
 -   [List of supported browsers & OS](https://browserstack.com/list-of-browsers-and-platforms?product=cypress_testing)
 -   [Run Tests in Localhost / Dev / Staging Environments](https://browserstack.com/docs/automate/cypress#run-tests-in-dev-environments)
 -   [Run Tests in Parallel](https://browserstack.com/docs/automate/cypress#run-tests-in-parallel)
