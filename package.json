@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
+    "cy:headless": "cypress run",
     "cy:browserstack": "browserstack-cypress run"
   },
   "author": "Ashwin G",
