@@ -8,6 +8,17 @@
     "cy:headless": "cypress run",
     "cy:browserstack": "browserstack-cypress run"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwingonsalves/Cypress-Cucumber-Samples.git"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber",
+    "browserstack",
+    "samples"
+  ],
+  "homepage": "https://github.com/ashwingonsalves/Cypress-Cucumber-Samples#readme",
   "author": "Ashwin G",
   "license": "ISC",
   "dependencies": {
