@@ -7,7 +7,7 @@ Cypress + Cucumber + BrowserStack
 * In order to run the sample test on your local machine ensure that you have the supported browsers installed (Chrome, Firefox or Microsoft Edge).
 * In order to run the sample test on BrowserStack you need to update the file browserstack.json with your username and access key.
 
-## Quick Start
+## Running the test
 Run Cypress + Cucumber sample test locally on your machine:
 
 * Select Chrome, Firefox or Microsoft Edge browser
