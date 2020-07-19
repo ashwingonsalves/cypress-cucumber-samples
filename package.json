@@ -17,7 +17,8 @@
     "cypress",
     "cucumber",
     "browserstack",
-    "samples"
+    "samples",
+    "testing"
   ],
   "homepage": "https://github.com/ashwingonsalves/Cypress-Cucumber-Samples#readme",
   "author": "Ashwin G",
