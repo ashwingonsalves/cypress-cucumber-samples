@@ -1,4 +1,4 @@
-##Cypress Cucumber tests for BrowserStack
+## Cypress Cucumber tests for BrowserStack
 
 ## Setup
 * Clone the repo
