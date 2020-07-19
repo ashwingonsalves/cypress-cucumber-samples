@@ -3,7 +3,7 @@
 import { Given, When, Then } from 'cypress-cucumber-preprocessor/steps'
 
 Given('I visit the local URL', () => {
-    cy.visit('http://bs-local.com:45691/check')
+    cy.visit('http://bs-local.com:8080')
 })
 
 Then('I should see {string}', body_text => {
