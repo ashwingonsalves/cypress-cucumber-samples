@@ -1,5 +1,4 @@
-# Cypress-Cucumber-Samples
-Cypress + Cucumber + BrowserStack
+# Cypress-BrowserStack-Cucumber
 
 ## Setup
 * Clone the repo
