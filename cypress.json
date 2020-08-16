@@ -1,5 +1,5 @@
 {
-    "ignoreTestFiles": ["*.js", "*.md", "**/cucumber-tests/local.feature"],
+    "testFiles": "**/search.feature",
     "viewportWidth": 1920,
     "viewportHeight": 1080
 }
