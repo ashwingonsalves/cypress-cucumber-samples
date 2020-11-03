@@ -1,9 +1,9 @@
-Feature: Google Search
+Feature: BrowserStack Search
 
-    Using Google
+    Using DuckDuckGo
     I should be able to search for BrowserStack
 
-    Scenario: 
-        Given I visit Google
+    Scenario: Using DuckDuckGo
+        Given I visit DuckDuckGo
         When I enter a search term
         Then I should see search results

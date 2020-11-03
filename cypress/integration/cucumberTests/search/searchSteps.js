@@ -1,11 +1,11 @@
 import { Given, When, Then } from 'cypress-cucumber-preprocessor/steps'
 
-Given('I visit Google', () => {
-    cy.visit('https://www.google.com')
+Given('I visit DuckDuckGo', () => {
+    cy.visit('https://duckduckgo.com/')
 })
 
 When('I enter a search term', () => {
-    cy.get('[name="q"]').type('BrowserStack {enter}')
+    cy.get('#search_form_input_homepage').type('BrowserStack {enter}')
 })
 
 Then('I should see search results', () => {

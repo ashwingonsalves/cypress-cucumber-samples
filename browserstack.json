@@ -19,7 +19,7 @@
         "build_name": "Cy Cucumber Samples v1",
         "parallels": 5,
         "npm_dependencies": {
-            "cypress-cucumber-preprocessor": "^2.5.3"
+            "cypress-cucumber-preprocessor": "^4.0.0"
         },
         "package_config_options": {
             "cypress-cucumber-preprocessor": {
