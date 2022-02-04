@@ -9,7 +9,7 @@ Feature: Login to Web App
         Given I visit the login page
         When I submit invalid login credentials
         Then I should see failure
-
+    
     Scenario: Valid Login Credentials
         Given I visit the login page
         When I submit valid login credentials
